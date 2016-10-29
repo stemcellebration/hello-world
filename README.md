@@ -1,2 +1,2 @@
 # hello-world
-This is the tutorial
+This is the time to read the tutorial
